@@ -13,7 +13,7 @@
   <project name="android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="why" revision="lineage-17.0" />
   <project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" path="vendor/qcom/opensource/data-ipa-cfg-mgr" remote="why" revision="lineage-17.0" />
   <project name="android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="why" revision="lineage-17.0" />
-  <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" revision="lineage-16.0" />
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="why" revision="lineage-17.0" />
   <project groups="qcom,pdk-qcom" name="android_vendor_qcom_opensource_audio" path="vendor/qcom/opensource/audio" remote="why" revision="lineage-17.0" />
   <project groups="qcom,pdk-qcom" name="LineageOS/android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
